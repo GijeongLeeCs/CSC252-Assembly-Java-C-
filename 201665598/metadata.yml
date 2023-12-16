@@ -1,0 +1,12 @@
+---
+:id: 201665598
+:submitters:
+- :name: Gijeong Lee
+  :email: gijeongl@arizona.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-11 23:52:38.321122000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-11 16:52:38.321122000 Z
+:status: processed
+:score: 100.0
